@@ -6,3 +6,5 @@ The goal : save the whole network to solve the problem of fast update of Interne
 标记所有的单元形成一个网络  
 目标为：保存整个网络用于解决互联网信息更新快阅后即焚的问题；标记网络用于解决网络个体的属性丢失（如一个恶意开发者下的所有站点都应该被标记有危险这一属性）  
 既然是个人保存的网络，即应当自行实现整个系统以免其他方对系统的直接更改。 
+
+![MyNet](MyNet.png)
